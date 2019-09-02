@@ -27,5 +27,5 @@ class SearchTests(unittest.TestCase):
 if __name__ == "__main__":
     test = SearchTests()
     test.setup()
-    test.test_search_by_category()
+    test.test_search_image()
     test.tear_down()
